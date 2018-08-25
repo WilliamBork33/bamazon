@@ -2,7 +2,7 @@ DROP DATABASE IF EXISTS bamazon;
 CREATE database bamazon;
 USE bamazon;
 
-CREATE TABLE products(
+CREATE TABLE products (
     item_id MEDIUMINT AUTO_INCREMENT NOT NULL,
     product_name VARCHAR (100) NOT NULL,
     department_name VARCHAR (100) NOT NULL,
