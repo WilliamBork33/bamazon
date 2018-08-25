@@ -2,6 +2,7 @@
 
 A command line node application that guides the user through a shopping experience. Connected to a MySQL database.
 
+
 ### Before You Begin.
 
 1. Clone the repository.
