@@ -7,7 +7,7 @@ A command line node application that guides the user through a shopping experien
 
 1. Clone the repository.
 
-2. Navigate to root folder and run `npm init` to initialize a package.json.
+2. Navigate to root folder and run `npm install` to install node and then `npm init` to initialize a package.json.
 
 3. To run the application you will need to install these node packages:
 
